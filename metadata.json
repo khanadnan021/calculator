@@ -1,0 +1,6 @@
+{
+  "name": "OmniEngineer Calculator",
+  "description": "Multi-domain engineering scientific calculator and unit conversion suite with dimensional analysis, domain formulas, and function plotting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
