@@ -28,7 +28,7 @@ export const Header: React.FC<HeaderProps> = ({
   onResetSession
 }) => {
   return (
-    <header className="sticky top-0 z-50 bg-slate-950/90 backdrop-blur-md border-b border-slate-800">
+    <header className="sticky top-0 z-50 bg-red-600 border-b border-red-700">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between gap-4">
         {/* Zone 1: Single text element wordmark */}
         <div className="flex items-center gap-2.5 shrink-0">

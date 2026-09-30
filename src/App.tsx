@@ -56,7 +56,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans selection:bg-cyan-500/25 selection:text-cyan-200">
+    <div className="min-h-screen bg-red-600 text-slate-100 flex flex-col font-sans selection:bg-cyan-500/25 selection:text-cyan-200">
       {/* Strict 3-zone Header Contract */}
       <Header
         activeTab={activeTab}
@@ -106,7 +106,7 @@ export default function App() {
       </main>
 
       {/* Subtle Engineering Footer */}
-      <footer className="border-t border-slate-900 bg-slate-950/80 py-6 text-xs text-slate-500">
+      <footer className="border-t border-red-700 bg-red-600 py-6 text-xs text-slate-500">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-3">
           <div className="flex items-center gap-2">
             <span className="font-mono text-slate-400">OmniEngineer</span>
